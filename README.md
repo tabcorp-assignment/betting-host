@@ -2,7 +2,7 @@ Hello!
 
 The following are the steps to run this program:
 
-1. git clone git@github.com:gaurav-tabcorp-assignment/betting-host.git
+1. git clone https://github.com/tabcorp-assignment/betting-host.git
 2. Install ruby (skip to 3, if you already have ruby installed)
   - I am currently using ruby-2.1.10,
   - You can install it following instructions from https://www.ruby-lang.org/en/documentation/installation/
