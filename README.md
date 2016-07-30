@@ -29,6 +29,7 @@ Class: <public methods>
 5. PlaceDivident: place_divident
 
 The flow of the program is as follow's
+
 1. bettin_host.rb is the base file it calls user_interface.rb
 2. UserInterface check's valid input from InputValidator(input_validator.rb)
 3. Stores in DataInterface(data_interface.rb)
